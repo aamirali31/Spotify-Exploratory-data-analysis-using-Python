@@ -37,6 +37,9 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 
 ## Objective
 1. Top 10 most Top 10 most popular songs on Spotify.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/99098468/228530988-dfa1f491-955c-421c-9596-396ebdfaecea.png" width="750" height="400" />
+
 2. Correlation Heatmap between Variable
 <p align="center">
  <img src="https://user-images.githubusercontent.com/99098468/228525123-29feb37d-4e1c-4716-8cb6-9d5ac16e6c83.png" width="750" height="400" />
